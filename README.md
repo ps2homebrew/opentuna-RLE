@@ -1,12 +1,12 @@
-#Source code for OpenTuna RLE encoder/decoder.
+# Source code for OpenTuna RLE encoder/decoder.
 
-##Build with IntelliJ IDEA or gradle
+## Build with IntelliJ IDEA or gradle
 
-##To encode an OpenTuna/Fortuna icon.icn: 
+## To encode an OpenTuna/Fortuna icon.icn: 
 
-##java -jar OpenTunaRLE.jar -e <payload-binary> <icon-file>
+## java -jar OpenTunaRLE.jar -e <payload-binary> <icon-file>
 
-##To decode an OpenTuna/Fortuna icon.icn: 
+## To decode an OpenTuna/Fortuna icon.icn: 
 
-##java -jar OpenTunaRLE.jar -d  <icon-file> <payload-binary>
+## java -jar OpenTunaRLE.jar -d  <icon-file> <payload-binary>
 
